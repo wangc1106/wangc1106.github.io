@@ -51,7 +51,7 @@ body{
 }
 #nav ul{
 	/* width:690px; */
-	height: 39px;
+	/* height: 39px;/* 
 	margin: 0px;
 	padding:0px;
 	background-color: gray;	
@@ -62,7 +62,7 @@ body{
 	text-align: center;/*妯悜灞呬腑*/
 	/* width:110px;闈炲父閲嶈 鍒嗗搴� */
 	list-style: none;/*鍘婚櫎list鐨勫皬鐐�*/
-	line-height: 39px;/*绾靛悜灞呬腑*/
+	/* line-height: 39px;/*绾靛悜灞呬腑*//* 
 }
 #nav ul li a {
 	display:block; /* 灏嗛摼鎺ヨ涓哄潡绾у厓绱� */
