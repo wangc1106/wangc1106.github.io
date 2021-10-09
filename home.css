@@ -16,7 +16,7 @@ body{
 #header{
 	background-color: gray;
 	/*margin:10px;*/
-	height: 108px;
+	height: 90px;
 	padding:10px 0px 10px 0px;
 }
 #inheader{
@@ -60,7 +60,6 @@ body{
 #nav ul li{
 	float: left;/*li妯悜鎺掑竷*/
 	text-align: center;/*妯悜灞呬腑*/
-	/* width:110px;闈炲父閲嶈 鍒嗗搴� */
 	list-style: none;/*鍘婚櫎list鐨勫皬鐐�*/
 	line-height: 39px;/*绾靛悜灞呬腑*/
 }
