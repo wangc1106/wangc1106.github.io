@@ -31,7 +31,9 @@ body{
 	display: table-cell;
 	
 }	
-
+#title{
+	text-align: center;
+}
 
 #footer2{
 	background-color: gray;
