@@ -79,3 +79,10 @@ body{
 #nav ul li a:hover {
     background:silver; /* 鍙樻崲鑳屾櫙鑹� */
 }
+
+#map{
+	background-color: white;
+	/*margin:10px;*/
+	height: 200px;
+	padding:10px 0px 0px 0px;
+}
